@@ -1,4 +1,10 @@
 # learning Markdown syntax
+``` Java
+static double square(a double) {
+ return a*a;
+}
+```
+
 ![](../canigou-787114_960_720.png "Le Canigou (Pyrénées orientales)")
 ## tables & links
 Androïd | iOS | Windows Phone
