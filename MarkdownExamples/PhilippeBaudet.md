@@ -1,5 +1,5 @@
 # learning Markdown syntax
-
+![](../canigou-787114_960_720.png "Le Canigou (Pyrénées orientales)")
 ## tables & links
 Androïd | iOS | Windows Phone
  --- | :---: | ---: |
