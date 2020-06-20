@@ -5,7 +5,8 @@ Androïd | iOS | Windows Phone
  --- | :---: | ---: |
  by *Google* | by *Apple* | by *Microsoft*
  aaaaaaaaaaaaaaaaaaaaa | bbbbbbbbbbbbbbbbb | ccccccccccccccccccccccccccc
- [Google store](https://store.google.com/) | [Apple store](https://store.google.com/) |
+ [Google play](https://play.google.com/store) | [Apple store](https://www.apple.com/uk/ios/app-store/) |
+ ![](https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png) | ![](https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?201909270352 "some comment")
 
 
 ## italic and bold
