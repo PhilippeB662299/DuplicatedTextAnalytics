@@ -1,5 +1,13 @@
 # learning Markdown syntax
 
+## tables & links
+Androïd | iOS | Windows Phone
+ --- | :---: | ---: |
+ by *Google* | by *Apple* | by *Microsoft*
+ aaaaaaaaaaaaaaaaaaaaa | bbbbbbbbbbbbbbbbb | ccccccccccccccccccccccccccc
+ [Google store](https://store.google.com/) | [Apple store](https://store.google.com/) |
+
+
 ## italic and bold
 __Just__ for the *sake* of ~~on~~ *__using__* the **markdown** _syntax_
 
